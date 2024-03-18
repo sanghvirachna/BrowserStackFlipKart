@@ -2,6 +2,11 @@
 
 This project automates the process of searching for a product on Flipkart, applying filters, sorting the results, and extracting product information.
 
+## Video 🎥
+
+You can view the video of the automated process on the following link: [https://drive.google.com/file/d/1LhATQLkVi9y4ee_YOm43Z-kzbL9o_0TG/view?usp=sharing](https://drive.google.com/file/d/1LhATQLkVi9y4ee_YOm43Z-kzbL9o_0TG/view?usp=sharing)
+
+
 ## Steps Performed 📝
 
 1. Navigate to flipkart.com.
@@ -26,6 +31,4 @@ This project automates the process of searching for a product on Flipkart, apply
 
 The console will display a list of products with their names, display prices, and links to their details page. On the BrowserStack dashboard, you can view the video of the automated process.
 
-## Video 🎥
 
-You can view the video of the automated process on the following link: [https://drive.google.com/file/d/1LhATQLkVi9y4ee_YOm43Z-kzbL9o_0TG/view?usp=sharing](https://drive.google.com/file/d/1LhATQLkVi9y4ee_YOm43Z-kzbL9o_0TG/view?usp=sharing)
